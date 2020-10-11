@@ -6,7 +6,7 @@
 
 [Data Visualization](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 [Machine Learning Model Review](/pdf/intermediatepythongithubio.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
