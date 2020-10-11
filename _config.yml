@@ -2,8 +2,10 @@ title: Zhong Zhong # your name (or website title) here
 logo: "/images/zhong_profile.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br>Zhong is an enthusiastic student at DePual University. He is mostly interesting in Machine Learning and Deep Learning.<br>
+  ======
+  <br>Zhong is an enthusiastic student at DePual University. He is mostly interested in Machine Learning and Deep Learning.<br>
   Second description 
+  ======
   <br>笨鸟先飞<br>
   <a href="https://www.linkedin.com/in/zhong-zhong-01517717b/">View My LinkedIn Profile</a> 
   
