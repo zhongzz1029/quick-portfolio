@@ -2,16 +2,8 @@ title: Zhong Zhong # your name (or website title) here
 logo: "/images/zhong_profile.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>Zhong is an enthusiastic student at DePual University. He is mostly interested in Machine Learning and Deep Learning.<br>
-  Second description 
-  <br></br>
   <br>笨鸟先飞<br>
-# Site Author 
-author:
-  <a href="https://www.linkedin.com/in/zhong-zhong-01517717b/">View My LinkedIn Profile</a> 
- 
- 
- 
- 
+  <a href="https://www.linkedin.com/in/zhong-zhong-01517717b/">My LinkedIn Profile</a> 
  
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
