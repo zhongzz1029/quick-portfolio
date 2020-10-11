@@ -21,8 +21,7 @@ if (isAwesome){
 ```
 
 ### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+![Image of project](/images/dummy_thumbnail.jpg)
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
