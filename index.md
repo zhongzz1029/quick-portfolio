@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Machine Learning Projects
 
 [Data Visualization](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -12,14 +12,14 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Convolutional Networks Review](http://example.com/)
+[Graph Models](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Computer Vision
 
-- [Project 1 Title](http://example.com/)
+- [Convolutional Networks Reviews](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
