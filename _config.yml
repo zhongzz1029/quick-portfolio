@@ -3,8 +3,8 @@ logo: "/images/zhong_profile.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <p>
     <br>Zhong is an enthusiastic student at DePual University. He is mostly interested in Machine Learning and Deep Learning.<br>
+    笨鸟先飞,
   </p>
-    <br>笨鸟先飞</br>
   <a href="https://www.linkedin.com/in/zhong-zhong-01517717b/">My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
