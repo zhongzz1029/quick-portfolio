@@ -29,7 +29,7 @@
 
 ## Blogs
 
-- [Review of AlextNet Oct 11, 2020](/sample_page)
+- [Review of AlextNet Oct 11, 2020](/Review_AlexNet.md)
 
 
 ---
