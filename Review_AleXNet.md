@@ -10,16 +10,16 @@ After that, the paper explained why convolutional network is useful in training 
 
 ### 2. Novel features
 
-######	1. ReLu Nonlinearity 
+* ReLu Nonlinearity 
 
 Traditional activation function, such as logistic function and tanh function, saturate at both ends of the function. AlexNet uses an nonsaturating activation function, ReLu. ReLu was proposed by Hintom and Nair, it was found that ReLu can help significantly improve the training speed. 
-######	2. Training on multiple GPUs 
+* Training on multiple GPUs 
 
 Due to the computational resouce limitations, they proposed a new training implementation method, in which they used parallelization training with two GPUs. They claimed that this method can not only hlep train such a large network but also improve the performance. (Group convolution)
 
-######	3. Local Response Normalization
+* Local Response Normalization
 
-######	4. Overlapping Pooling
+* Overlapping Pooling
 
 Pooling layer summarizes the neighboring neurons, more importantly, it reduces the number of parameters in the network. They found that during training models with overlapping pooling tend to be more difficult to overfit.    
 
@@ -40,9 +40,9 @@ Fifth conv layer, filter size 3x3x192, 256 kernels.
 
 ### 4. Reducing Overfitting 
 
-######	1. Data Augmentation 
+* Data Augmentation 
 
-######	2. [Dropout](https://paperswithcode.com/method/dropout) 
+* [Dropout](https://paperswithcode.com/method/dropout) 
 
 ### 5. Results 
 
