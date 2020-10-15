@@ -10,31 +10,39 @@ After that, the paper explained why convolutional network is useful in training 
 
 ### 2. Novel features
 
-#### 	1. ReLu Nonlinearity 
+######	1. ReLu Nonlinearity 
 
 Traditional activation function, such as logistic function and tanh function, saturate at both ends of the function. AlexNet uses an nonsaturating activation function, ReLu. ReLu was proposed by Hintom and Nair, it was found that ReLu can help significantly improve the training speed. 
-
-#### 	2. Training on multiple GPUs 
+######	2. Training on multiple GPUs 
 
 Due to the computational resouce limitations, they proposed a new training implementation method, in which they used parallelization training with two GPUs. They claimed that this method can not only hlep train such a large network but also improve the performance. (Group convolution)
 
-#### 	3. Local Response Normalization
+######	3. Local Response Normalization
 
-#### 	4. Overlapping Pooling
+######	4. Overlapping Pooling
 
 Pooling layer summarizes the neighboring neurons, more importantly, it reduces the number of parameters in the network. They found that during training models with overlapping pooling tend to be more difficult to overfit.    
 
 ### 3. The Architecture 
 
-![image](/images/alexnet.jpeg)
+The architecture has eight weighted layers. The last fully connected layer is a softmax layer. Response normalization layers follow the first and the second conv layer. Max pooling layer follow the first and second conv layer as well as the fifth conv layer. 
 
-<img src="images/alexnet.jpeg?raw=true"/>
+ReLu is applied to the output of every conv layer and fully connected layer. 
+
+The input is 224x224x3. 
+First convoltional layer, filter size 11x11x3, stride 4, 96 kernels. 
+Second convolutional layer, filter size 5x5x48, 256 kernels. 
+Third conv layer, filter size 3x3x256, 384 kernels. (be careful filter size here)  
+Fourth conv layer, filter size 3x3x192, 384 kernels. 
+Fifth conv layer, filter size 3x3x192, 256 kernels. 
+
+![image](/images/alexnet.jpeg)
 
 ### 4. Reducing Overfitting 
 
-#### 	1. Data Augmentation 
+######	1. Data Augmentation 
 
-#### 	2. [Dropout](https://paperswithcode.com/method/dropout) 
+######	2. [Dropout](https://paperswithcode.com/method/dropout) 
 
 ### 5. Results 
 
