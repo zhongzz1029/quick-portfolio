@@ -26,6 +26,8 @@ Pooling layer summarizes the neighboring neurons, more importantly, it reduces t
 
 ### 3. The Architecture 
 
+![image](/images/alexnet.jpeg)
+
 <img src="images/alexnet.jpeg?raw=true"/>
 
 ### 4. Reducing Overfitting 
