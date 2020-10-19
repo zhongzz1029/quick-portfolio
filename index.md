@@ -30,6 +30,7 @@
 ## Blogs
 
 - [Review of AlextNet Oct 11, 2020](/Review_AleXNet.md)
+- [Review of VGGNet Oct 19, 2020](/Review_VGGNet.md) 
 
 
 ---
