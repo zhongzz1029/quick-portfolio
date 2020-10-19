@@ -2,7 +2,7 @@
 
 ![alexnet paper](/images/alexnet_shot.png)
 
-**Paper summary:** This paper proposed a convolutional neural network, AlexNet, which was the deepest convolutioanl network back in 2012. AlexNet consists of eight layers, five convolution layer and three fully connected layers. It achieved outstanding performance with top-5 error rate and top-1 error rate of 15.3% and 26.2%, which helped them won the first place in 2012 ImageNet Competition. It outperformed the architecture by more than 10% in accuracy.
+**Paper summary:** This paper proposed a convolutional neural network, AlexNet, which was the deepest convolutioanl network back in 2012. AlexNet consists of eight layers, five convolution layer and three fully connected layers. It achieved outstanding performance with top-5 error rate and top-1 error rate of 15.3% and 26.2%, which helped them win the first place in 2012 ImageNet Competition. It outperformed the architecture in the second place by more than 10% in accuracy.
 
 ### 1. Introduction
 
@@ -12,14 +12,18 @@ After that, the paper explained why convolutional network is useful in training 
 
 ### 2. Novel features
 
+Several novel feataures are used in order to train such a large model at that time. These features improved both training speed and model accuracy. 
+
 * ReLu Nonlinearity 
 
-Traditional activation function, such as logistic function and tanh function, saturate at both ends of the function. AlexNet uses an nonsaturating activation function, ReLu. ReLu was proposed by Hintom and Nair, it was found that ReLu can help significantly improve the training speed. 
+Traditional activation function, such as logistic function and tanh function, saturate at both ends of the function. AlexNet uses an nonsaturating activation function, ReLu, proposed by Hintom and Nair, it was found that ReLu can significantly improve the training speed. 
+
 * Training on multiple GPUs 
 
 Due to the computational resouce limitations, they proposed a new training implementation method, in which they used parallelization training with two GPUs. They claimed that this method can not only hlep train such a large network but also improve the performance. (Group convolution)
 
-* Local Response Normalization
+* [Local Response Normalization](https://paperswithcode.com/method/local-response-normalization#)
+
 
 * Overlapping Pooling
 
@@ -34,7 +38,7 @@ ReLu is applied to the output of every conv layer and fully connected layer.
 The input is 224x224x3. 
 First convoltional layer, filter size 11x11x3, stride 4, 96 kernels. 
 Second convolutional layer, filter size 5x5x48, 256 kernels. 
-Third conv layer, filter size 3x3x256, 384 kernels. (be careful filter size here)  
+Third conv layer, filter size 3x3x256, 384 kernels. (be careful filter size here, it is because of the implementation method)   
 Fourth conv layer, filter size 3x3x192, 384 kernels. 
 Fifth conv layer, filter size 3x3x192, 256 kernels. 
 
@@ -42,11 +46,21 @@ Fifth conv layer, filter size 3x3x192, 256 kernels.
 
 ### 4. Reducing Overfitting 
 
-* Data Augmentation 
+* [Data Augmentation](https://paperswithcode.com/task/image-augmentation) 
 
 * [Dropout](https://paperswithcode.com/method/dropout) 
 
 ### 5. Results 
 
+AlexNet achieved the state-of-the-art performance on the ImageNet dataset in 2012. They also built an emsamble of CNN models which outperformed former SOTAs on different versions of ImageNet datasets. 
+
+They displayed how CNNs can be invariant to object being in different positions in a image. 
+
 ### 6. Conclusion 
+
+This paper shows that CNNs can be capable of achieving record-beating results on image recognition tasks. 
+
+Also, there is evidence that the depth of the CNN is vital for it to achieve high performance. 
+
+
 
