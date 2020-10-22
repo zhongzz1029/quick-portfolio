@@ -27,11 +27,11 @@
 
 ---
 
-## Blogs
+## Computer Vision Papers 
 
-- [Review of AlextNet Oct 11, 2020](/Review_AleXNet.md)
-- [Review of VGGNet Oct 19, 2020](/Review_VGGNet.md) 
-- [Review of DenseNet Oct 20, 2020](/Review_DenseNet.md)
+- [Review of AlextNet](/Review_AleXNet.md)
+- [Review of VGGNet](/Review_VGGNet.md) 
+- [Review of DenseNet](/Review_DenseNet.md)
 
 ---
 <!-- Remove above link if you don't want to attibute -->
