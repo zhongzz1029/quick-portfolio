@@ -5,13 +5,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <p>
     <br>Zhong is an enthusiastic student at DePual University. He is interested in Machine Learning and Deep Learning (computer vision).<br>
     
-    笨鸟先飞. 
+    <br>笨鸟先飞 & 耐心
   </p>
   <a href="https://www.linkedin.com/in/zhong-zhong-01517717b/">My LinkedIn Profile</a> 
 
-baseurl: "/about"
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-timezone: America/New_York 
 
