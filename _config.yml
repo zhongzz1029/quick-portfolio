@@ -8,13 +8,10 @@ description: > # your text below (remove <br> elements if you don't need line br
     <br>笨鸟先飞 & 耐心
   </p>
   <a href="https://www.linkedin.com/in/zhong-zhong-01517717b/">My LinkedIn Profile</a> 
+social-network-links:
+  twitter: zhongzhong2 
+  linkedin: zhong-zhong-01517717b 
 
-social: 
-  name: Zhong Zhong
-  email: zhongzhongwsu@gmail.com
-  links: 
-    - https://www.linkedin.com/in/zhong-zhong-01517717b
-    
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
