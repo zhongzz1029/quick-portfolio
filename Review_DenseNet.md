@@ -4,15 +4,15 @@ DenseNet is a followup of ResNet, because it further extends the idea of shortcu
 
 ### Outline: 
 
-Motivation
+* Motivation
 
-DenseNet Architecture
+* DenseNet Architecture
 
-Advantages 
+* Advantages 
 
-Experiment
+* Experiment
 
-Conclusion
+* Conclusion
 
 ### 1. Motivation 
 
@@ -82,6 +82,6 @@ Results on ImageNet.
 
 ### 5. Conclusion 
 
-With the dense connectivity, DenseNet can very easily avoid from overfitting and the vanishing gradient problem. As the number of layer increases, DenseNet can achieve SOTA on most of the benchmark datasets more efficiently. DenseNets integrated with properties of deep supervision, diversified depth and feature reuse  are more accurate and can be used on various computer vision tasks.   
+With the dense connectivity, DenseNet can very easily avoid overfitting and the vanishing gradient problem. As the number of layer increases, DenseNet can achieve SOTA on most of the benchmark datasets more efficiently. DenseNets integrated with properties of deep supervision, diversified depth and feature reuse  are more accurate and can be used on various computer vision tasks.   
 
 
