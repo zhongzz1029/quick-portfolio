@@ -1,4 +1,6 @@
-## This is my review of [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993v5.pdf)
+## This is my review of [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993v5.pdf) 
+
+[Slides](https://pdfs.semanticscholar.org/c3d9/26a85d85a83126f405ad40ff453611148c15.pdf) 
 
 DenseNet is a followup of ResNet, because it further extends the idea of shortcut connections between layers in the network. In DenseNet, each layer is connected to all the subsequent layers in a feedfoward fashion. Network with L layers, there will be L(L+1)/2 connections. With this dense connection, DenseNet can achieve high performance with better computation and parameter efficiency. Densenet also alleviate the vanishing gradient problem and encourage feature reuse. 
 
