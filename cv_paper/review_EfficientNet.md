@@ -36,7 +36,7 @@ In order to better demonstrate the effectiveness of the scaling method, a new mo
 
 The compound scaling method is used to scale up EfficientNet-B0
 
-STEP 1: we first fix φ = 1, assuming twice more resources avalible, and do a small grid research :confused: of these values. 
+STEP 1: we first fix φ = 1, assuming twice more resources avalible, and do a small grid research of these values. 
 
 STEP 2: these three values are set to be fixed, and scaled up with different φ, thus EfficientNet-B1 to B7 are obtained.   
 
