@@ -29,7 +29,7 @@
 - [Review of ResNeXt](/cv_paper/)
 - [Review of SeNet 11/6](/cv_paper/Review_SeNet.md)
 - [Review of Xception 11/7](/cv_paper/)
-- [Review of MobileNetV1 11/8](/cv_paper/Review_MobileNet)
+- [Review of MobileNetV1 11/8](/cv_paper/Review_MobileNet.md)
 - [Review of ShuffleNet 11/9](/cv_paper/)
 - [Review of SqueezeNet 11/10](/cv_paper/)
 - [Review of CheXnet 11/11](/cv_paper/)
