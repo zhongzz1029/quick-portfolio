@@ -60,15 +60,15 @@ MobileNets have much less parameters and mult-adds than popular networks, while 
 
 ![shrinked](/images/MobileNetV1/shrinked.png)
 
-### 3 Fine grained recoginition 
+### Fine grained recoginition 
 
-### 4 Large scale geolocalization 
+### Large scale geolocalization 
 
-### 5 Face attributes 
+### Face attributes 
 
-### 6 Object Detection 
+### Object Detection 
 
-### 7 Face Embeddings 
+### Face Embeddings 
 
 
 - [x] Does reduced MobileNet have same α and ρ through all the layers? 

@@ -22,7 +22,7 @@
 
 ## Computer Vision Papers 
 
-- [Review of AlextNet](/cv_paper/Review_AleXNet.md)
+- [ ][Review of AlextNet](/cv_paper/Review_AleXNet.md)
 - [Review of VGGNet](/cv_paper/Review_VGGNet.md) 
 - [Review of DenseNet](/cv_paper/Review_DenseNet.md)
 - [Review of EfficientNet](/cv_paper/review_EfficientNet.md)
