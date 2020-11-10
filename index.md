@@ -42,3 +42,5 @@
 - [Review of Noisy Student 11/18](/cv_paper/)
 
 ---
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/02vmIjAAY8c/0.jpg)](http://www.youtube.com/watch?v=02vmIjAAY8c)
