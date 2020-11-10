@@ -44,32 +44,31 @@ Width multiplier α is introduced to control, more specifically, thin the input 
 
 ρ is another hyperparameter that can be usd to reduce the computational cost. ρ is used to multiply the image resolution, and it is typically set implicitly so that the input resolution of the network is 224, 192, 160 or 128. ρ has the effect of reducing computational cost by ρ^2. 
 
-![formula 7](/images/MobileNetV1/formula7.png)
-
 The computational cost after adding the two hyperparameter:
 
 ![cost](/images/MobileNetV1/cost.png)
 
 5 Experiments 
 
-	1 MobileNets compare to SOTA 
+### MobileNets compare to SOTA 
 
-	MobileNets have much less parameters and mult-adds than popular networks, while mantaining comparable accuracy. 
+MobileNets have much less parameters and mult-adds than popular networks, while mantaining comparable accuracy. 
 
-	![sota](/images/MobileNetV1/figure3.png)
+![sota](/images/MobileNetV1/figure3.png)
 
-	2 MobileNets with shrinking hyperparameter 
+### MobileNets with shrinking hyperparameter 
 
-	![shrinked](/images/MobileNetV1/shrinked.png)
+![shrinked](/images/MobileNetV1/shrinked.png)
 
-	3 Fine grained recoginition 
+### 3 Fine grained recoginition 
 
-	4 Large scale geolocalization 
+### 4 Large scale geolocalization 
 
-	5 Face attributes 
+### 5 Face attributes 
 
-	6 Object Detection 
+### 6 Object Detection 
 
-	7 Face Embeddings 
+### 7 Face Embeddings 
+
 
 - [x] Does reduced MobileNet have same α and ρ through all the layers? 
