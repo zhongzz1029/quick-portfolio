@@ -75,4 +75,8 @@ Model with bypass connections outperform ordinary SqueezeNet.
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ge_RT5wvHvY/0.jpg)](http://www.youtube.com/watch?v=ge_RT5wvHvY)
 
+--- 
+
+- [ ] Code
+
 
