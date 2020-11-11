@@ -79,3 +79,5 @@ MobileNets have much less parameters and mult-adds than popular networks, while 
 Question I need to figure out: 
 
 - [ ] Does reduced MobileNet have same α and ρ through all the layers? 
+
+- [ ] Width multiplier reduces the number of channels. So is it like dropout, only here it sets the whole feature map to zero. 

@@ -32,7 +32,7 @@
 - [MobileNetV1 11/8](/cv_paper/Review_MobileNet.md)
 - [ShuffleNet 11/9](/cv_paper/)
 - [SqueezeNet 11/10](/cv_paper/Review_SqueezeNet.md)
-- [CheXnet 11/11](/cv_paper/)
+- [CheXnet 11/11](/cv_paper/CheXNet.md)
 - [MobileNetV2 11/12](/cv_paper/)
 - [DarkNet-53 11/13](/cv_paper/)
 - [MnasNet 11/14](/cv_paper/)
