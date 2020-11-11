@@ -22,7 +22,7 @@ The paper outlined several design strategies for CNN architecture with few param
 
 - Strategy 3 Downsample late in the network so that convolution layer have large activation maps. The intuition is that large activation maps can lead to higher classification accuracy. 
 
-![figure1](/images/SqueezeNet/figiure1.png) 
+![figure1](/images/SqueezeNet/figure1.png) 
 
 A fire moudle consists of a squeeze convolution layer (which only has 1x1 filters). The squeeze conv is feeding into an expend layer that has a mix of 1x1 layer and 3x3 layer. 
 
@@ -38,7 +38,7 @@ The SqueezeNet is basically a stack of fire modules. The number of channels in t
 
 Dropout (0.5) is applied after the 9th fire module. 
 
-![figure2](/images/SqueezeNet/figiure2.png) 
+![figure2](/images/SqueezeNet/figure2.png) 
 
 ![table1](/images/SqueezeNet/table1.png) 
 
