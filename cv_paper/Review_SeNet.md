@@ -7,4 +7,13 @@ SENet won the ILSVRC 2017 with top-5 error of 2.251%.
 
 1. Squeeze-and-Excitation Blocks 
 
- 
+Squeeze: Global Information Embedding 
+
+To mitigate the problem of ... 
+
+add channel descriptor, using global average pooling. In detail, 
+
+Excitation: Adaptive Recalibration 
+
+Which aims to fully capture channel-wise dependencies. 
+

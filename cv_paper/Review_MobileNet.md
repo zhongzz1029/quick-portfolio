@@ -70,5 +70,12 @@ MobileNets have much less parameters and mult-adds than popular networks, while 
 
 ### Face Embeddings 
 
+---
 
-- [x] Does reduced MobileNet have same α and ρ through all the layers? 
+[Practice MobileNets]()
+
+---
+
+Question I need to figure out: 
+
+- [ ] Does reduced MobileNet have same α and ρ through all the layers? 
