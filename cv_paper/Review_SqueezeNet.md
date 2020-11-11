@@ -68,7 +68,6 @@ SqueezeNet with complex bypass connections between remaining fire modules.
 
 Model with bypass connections outperform ordinary SqueezeNet. 
 
-## 
 
 ---
 
@@ -76,7 +75,8 @@ Model with bypass connections outperform ordinary SqueezeNet.
 
 --- 
 
-[ ] Code
+[x] Code
+
 [ ] Example 
 
 
