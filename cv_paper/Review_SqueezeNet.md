@@ -6,22 +6,21 @@ Former research focused on improving CNNs accuracy. Smaller CNNs offer at least 
 
 Unlike former CNN models, the paper intended to identify a CNN model with fewer parameters while still maintaining comparable accuracy to popular  architectures, since smaller architectures have several advantages as follows. 
 
-	### More efficient distributed training. Small models require less communications and train faster. 
+- More efficient distributed training. Small models require less communications and train faster. 
 
-	### Less overhead (operating costs) when exporting new models to clients. Smaller models require large data transfers. 
+- Less overhead (operating costs) when exporting new models to clients. Smaller models require large data transfers. 
 
-	### Feasible FPGA and embedded deployment. A sufficiently small model can be stored directly on the FPGA. 
+- Feasible FPGA and embedded deployment. A sufficiently small model can be stored directly on the FPGA. 
 
 ## 2 Fire Moudle 
 
 The paper outlined several design strategies for CNN architecture with few parameters. 
 
-	### Strategy 1 Replace 3x3 filters with 1x1 filters. 1x1 filter has 9x less parameter than 3x3 filter. 
+- Strategy 1 Replace 3x3 filters with 1x1 filters. 1x1 filter has 9x less parameter than 3x3 filter. 
 
-	### Strategy 2 Decrease the number of input channels to 3x3 filters.  
+- Strategy 2 Decrease the number of input channels to 3x3 filters.  
 
-	### Strategy 3 Downsample late in the network so that convolution layer have large activation maps. The intuition is that large activation maps can lead to higher classification accuracy. 
-
+- Strategy 3 Downsample late in the network so that convolution layer have large activation maps. The intuition is that large activation maps can lead to higher classification accuracy. 
 
 ![figure1](/images/SqueezeNet/figiure1.png) 
 
@@ -77,6 +76,7 @@ Model with bypass connections outperform ordinary SqueezeNet.
 
 --- 
 
-- [ ] Code
+[ ] Code
+[ ] Example 
 
 
