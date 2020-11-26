@@ -27,19 +27,29 @@
 - [DenseNet](/cv_paper/Review_DenseNet.md)
 - [EfficientNet](/cv_paper/review_EfficientNet.md)
 - [ResNeXt](/cv_paper/)
-- [SeNet 11/6](/cv_paper/Review_SeNet.md)
-- [Xception 11/7](/cv_paper/)
-- [MobileNetV1 11/8](/cv_paper/Review_MobileNet.md)
-- [ShuffleNet 11/9](/cv_paper/)
-- [SqueezeNet 11/10](/cv_paper/Review_SqueezeNet.md)
-- [CheXnet 11/11](/cv_paper/Review_CheXNet.md)
-- [MobileNetV2 11/12](/cv_paper/Review_MobileNetV2.md)
-- [DarkNet-53 11/13](/cv_paper/)
-- [MnasNet 11/14](/cv_paper/)
-- [ShuffleNetV2 11/15](/cv_paper/)
-- [FixEfficientNet 11/16](/cv_paper/)
-- [FixResNeXt 11/17](/cv_paper/)
-- [Noisy Student 11/18](/cv_paper/)
+- [SeNet](/cv_paper/Review_SeNet.md)
+- [Xception](/cv_paper/)
+- [MobileNetV1](/cv_paper/Review_MobileNet.md)
+- [ShuffleNet](/cv_paper/)
+- [SqueezeNet](/cv_paper/Review_SqueezeNet.md)
+- [CheXnet](/cv_paper/Review_CheXNet.md)
+- [MobileNetV2](/cv_paper/Review_MobileNetV2.md)
+- [DarkNet-53](/cv_paper/)
+- [NasNet](https://arxiv.org/abs/1707.07012)
+- [MnasNet](/cv_paper/)
+- [ShuffleNetV2](/cv_paper/)
+- [FixEfficientNet](/cv_paper/)
+- [FixResNeXt ](/cv_paper/)
+- [Noisy Student](/cv_paper/)
+- [Deep transfer learning for automated diagnosis of skin lesions from photographs](https://arxiv.org/abs/2011.04475v3)
+- [Facial Expression Recognition Under Partial Occlusion from Virtual Reality Headsets based on Transfer Learning](https://arxiv.org/pdf/2008.05563v1.pdf)
+- [COVID-19 Detection Through Transfer Learning Using Multimodal Imaging Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9167243)
+
+---
+
+## Image Segmentation 
+
+- [] 
 
 ---
 
