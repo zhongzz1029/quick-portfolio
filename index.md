@@ -2,14 +2,11 @@
 
 ---
 
-### Machine Learning Projects
-
----
+## Machine Learning Projects
 
 [Facial Expression Recognition with CNNs](/pdf/DSC672_project_report_zhong.pdf)
-<img src="images/fer_presentation.jpg?raw=true"/>
+<img src="pdf/fer_presenation.jpg?raw=true"/>
 
----
 [Machine Learning Model Review](/pdf/intermediatepythongithubio.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -17,12 +14,11 @@
 
 ## Computer Vision Paper Review 
 
-- [Image Classification](/cv_paper/imgae_classification) 
-
----
+- [Image Classification](/cv_paper/image_classification) 
 
 - [Image Segmentation](/img_seg/about.md) 
 
 ---
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/02vmIjAAY8c/0.jpg)](http://www.youtube.com/watch?v=02vmIjAAY8c)
+
