@@ -19,7 +19,7 @@
 
 - [Image Classification](/cv_paper/image_classification.md) 
 
-- [Image Segmentation](/img_seg/about.md) 
+- [Image Segmentation](/img_seg/image_segmentation.md) 
 
 ---
 
