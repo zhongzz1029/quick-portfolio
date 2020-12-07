@@ -17,4 +17,6 @@ The student model is given much lager capacity to be better than the teacher. Th
 ### 3 Other techniques used 
 
 Data filtering and balancing. Images are filtered out if they have low confidence from the predictions by the teacher. To ensure the distribution of unlabeled data, images are duplicated if they do not have enough samples in a class, otherwise, they are removed if they have too many in a classe based on the confidence from the teacher predictions. 
+
+
   
