@@ -17,7 +17,7 @@
 
 ## Computer Vision Paper Review 
 
-- [Image Classification](/cv_paper/image_classification.md) 
+- [Image Classification](/image_classification.md) 
 
 - [Image Segmentation](/img_seg/image_segmentation.md) 
 
@@ -30,6 +30,8 @@
 ## Machine Learning 
 
 - [Feature Engineering](/machine_learning/feature_engineering.md) 
+
+- [Pipeline](/machine_learning/pipeline.md) 
 
 --- 
 
