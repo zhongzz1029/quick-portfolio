@@ -13,7 +13,8 @@
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+[] 
+
 
 ## Computer Vision Paper Review 
 
@@ -29,7 +30,7 @@
 
 - [GAN](/gan) 
 
-- [Image Super Resolution]()
+- [Image Super Resolution]() 
 
 ---
 
