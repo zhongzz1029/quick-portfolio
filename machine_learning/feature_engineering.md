@@ -131,8 +131,23 @@ precision: measures how many of the samples predicted as positive are actually p
 
 recall: measure how many of the positive examples are correctly predicted. 
 
-f-score: The F1 score is the harmonic mean of the precision and recall. The highest possible value of an F-score is 1, indicating perfect precision and recall, and the lowest possible value is 0. (Wiki) 
+F-score: The F1 score is the harmonic mean of the precision and recall. The highest possible value of an F-score is 1, indicating perfect precision and recall, and the lowest possible value is 0. (Wiki) 
 
+Receiver operating characteristics (ROC) and AUC
+
+The ROC curve consider all possible thresholds for a given classifier. It reports the true positive rate (recall) and false positive rate. The goal is to have high recall while keeping fpr low. For imbalanced dataset, AUC is much better than accuracy. 
+
+```Python 
+from sklearn.metrics import roc_curve 
+fpr, tpr, threshold = roc_curve(y_test, pred) 
+plt.plot(fpr, tpr, label='roc curve')
+plt.xlabel('FPR')
+plt.ylabel('TPR')
+```
+
+**Multiclass Classification** 
+
+For multiclass classification task, all the metrics used on binary classification can be used. However, the most common used metric is F-score. 
 
 
 

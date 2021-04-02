@@ -19,19 +19,37 @@
 
 - [Image Classification](/image_classification.md) 
 
-- [Image Segmentation](/img_seg/image_segmentation.md) 
+- [Semantic Segmentation](/img_seg/image_segmentation.md) 
+
+- [Instance Segmentation]()
+
+- [Biomedical Segmentation]()
 
 - [Image Detection](/img_detection) 
 
 - [GAN](/gan) 
 
+- [Image Super Resolution]()
+
 ---
 
-## Machine Learning 
+## Machine Learning Blogs 
 
 - [Feature Engineering](/machine_learning/feature_engineering.md) 
 
 - [Pipeline](/machine_learning/pipeline.md) 
+
+- [AutoML]()
+
+---
+
+## Programming Languages & Tools 
+
+- [sql]
+
+- [Python]
+
+- [R] 
 
 --- 
 

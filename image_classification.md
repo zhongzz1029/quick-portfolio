@@ -4,8 +4,8 @@
 
 - [AlextNet](/cv_paper/Review_AleXNet.md)
 - [NIN](/cv_paper/)
-- [ZFNet]/cv_paper/
-- [SPPNet]/cv_paper/)
+- [ZFNet](/cv_paper/)
+- [SPPNet](/cv_paper/)
 
 **2015**
 
@@ -22,16 +22,24 @@
 - [SqueezeNet](/cv_paper/Review_SqueezeNet.md)
 - [Inception V3]()
 - [ResNet]()
+- [Pre-Activation ResNet]
+- [RiR]
+- [Stochasti Depth]
 - [WideResNet]()
+- [Trimps-Soushen] 
 
 **2017**
 
+- [Inception V4]()
 - [DenseNet](/cv_paper/Review_DenseNet.md)
 - [ResNeXt](/cv_paper/)
 - [SeNet](/cv_paper/Review_SeNet.md)
 - [Xception](/cv_paper/)
 - [MobileNetV1](/cv_paper/Review_MobileNet.md)
 - [ShuffleNet](/cv_paper/)
+- [ResNeXt]()
+- [DPN]
+- [Residual Attention Network] 
 
 **2018**
 
@@ -50,12 +58,27 @@
 
 **2019**
 
+- [ResNet-38]
+- [AmoebaNet]
+- [ESPNetv2]
+- [Single-Path-NAS]
+- [DARTS]
+- [ProxylessNAS]
+- [FBNet]
+- [ShakeDrop]
+- [CutMix]
+- [MixConv]
+- [ABN]  
 - [EfficientNet](/cv_paper/review_EfficientNet.md)
 - [MnasNet](/cv_paper/)
-- [MobileNet V3]()
+- [MobileNet V3](/cv_paper/MobileNetV3.md)
 
 
 **2020**
 
+
+- [Random Erasing (RE)] 
 - [ViT-H/14]()
- 
+- [SAOL] 
+
+
