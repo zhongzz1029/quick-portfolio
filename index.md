@@ -13,8 +13,15 @@
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[] 
+[Housing data manipulation with pandas (housing industry, data manipulation, data quality)](https://www.kaggle.com/harrywang/housing?select=housing.csv) 
 
+[Data cleansing practice on Housing data (data wrangling, missing value)](https://www.kaggle.com/vikrishnan/boston-house-prices)
+
+[The default of credit card client analysis (imbalanced dataset, classification, data quality, fraud detection)](https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset)
+
+[Insurance company claims severity (anonymized data, regression, distribution)]()
+
+[Data visualization with language eduction user datasets (data visualization, data manipulation, python dashboard)]()
 
 ## Computer Vision Paper Review 
 
